@@ -1,0 +1,36 @@
+{
+    "startingState": "NS0",
+    "NS0": {
+        "isTerminatingState": false,
+        "c": "NS1",
+        "a": "NS2",
+        "b": "NS3"
+    },
+    "NS1": {
+        "isTerminatingState": false,
+        "f": "NS4",
+        "e": "NS5",
+        "d": "NS6"
+    },
+    "NS2": {
+        "isTerminatingState": false,
+        "d": "NS6",
+        "e": "NS5",
+        "f": "NS4"
+    },
+    "NS3": {
+        "isTerminatingState": false,
+        "d": "NS6",
+        "e": "NS5",
+        "f": "NS4"
+    },
+    "NS4": {
+        "isTerminatingState": true
+    },
+    "NS5": {
+        "isTerminatingState": true
+    },
+    "NS6": {
+        "isTerminatingState": true
+    }
+}
