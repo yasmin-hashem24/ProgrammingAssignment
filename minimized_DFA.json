@@ -2,72 +2,9 @@
     "startingState": "S0",
     "S0": {
         "isTerminatingState": false,
-        "a": "S0",
-        "b": "S1"
+        "a": "S1"
     },
     "S1": {
-        "isTerminatingState": false,
-        "a": "S2",
-        "b": "S3",
-        "c": "S2",
-        "d": "S2",
-        "e": "S2",
-        "f": "S2",
-        "g": "S2",
-        "h": "S2",
-        "i": "S2",
-        "j": "S2",
-        "k": "S2",
-        "l": "S2",
-        "m": "S2",
-        "n": "S2",
-        "o": "S2",
-        "p": "S2",
-        "q": "S2",
-        "r": "S2",
-        "s": "S2",
-        "t": "S2",
-        "u": "S2",
-        "v": "S2",
-        "w": "S2",
-        "x": "S2",
-        "y": "S2",
-        "z": "S2"
-    },
-    "S2": {
-        "isTerminatingState": true,
-        "c": "S4"
-    },
-    "S3": {
-        "isTerminatingState": true,
-        "a": "S2",
-        "b": "S3",
-        "c": "S2",
-        "d": "S2",
-        "e": "S2",
-        "f": "S2",
-        "g": "S2",
-        "h": "S2",
-        "i": "S2",
-        "j": "S2",
-        "k": "S2",
-        "l": "S2",
-        "m": "S2",
-        "n": "S2",
-        "o": "S2",
-        "p": "S2",
-        "q": "S2",
-        "r": "S2",
-        "s": "S2",
-        "t": "S2",
-        "u": "S2",
-        "v": "S2",
-        "w": "S2",
-        "x": "S2",
-        "y": "S2",
-        "z": "S2"
-    },
-    "S4": {
         "isTerminatingState": true
     }
 }
