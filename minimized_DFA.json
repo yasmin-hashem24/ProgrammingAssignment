@@ -5,6 +5,10 @@
         "a": "S1"
     },
     "S1": {
+        "isTerminatingState": false,
+        "b": "S2"
+    },
+    "S2": {
         "isTerminatingState": true
     }
 }
